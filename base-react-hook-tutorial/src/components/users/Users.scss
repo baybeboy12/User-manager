@@ -1,0 +1,24 @@
+.user-footer {
+  ul {
+    background-color: white;
+  }
+  li {
+    &:hover {
+      background-color: white;
+    }
+  }
+}
+.modal-create-user {
+  .content-body {
+    .red {
+      color: red;
+    }
+  }
+}
+.modal-edit-user {
+  .content-body {
+    .red {
+      color: red;
+    }
+  }
+}
